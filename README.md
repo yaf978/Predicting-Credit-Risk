@@ -1,5 +1,5 @@
 # Predicting-Credit-Risk
-![cover](/images/Cover.png)
+![cover](/images/creditrisk_banner1.png)
 We will be building a machine learning model that attempts to predict whether a loan will be approved or not.
 
 
