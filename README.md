@@ -20,3 +20,10 @@ The Logistic regression will be more accurate because the data is imbalanced and
 
 ![randomF](/images/random.png)
 ## Comparison and Conclusion
+both ways give a high testing score with slight differences to the Logistic Regression Model favor.
+
+LogisticRegression Testing Data Score:0.9924680148576145.
+
+Random_Forest Testing Score: 0.991900536524969
+
+
