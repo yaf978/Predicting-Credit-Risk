@@ -5,7 +5,8 @@ We will be building a machine learning model that attempts to predict whether a 
 
 
 ![data](/images/data.png)
-![im](/images/imbalanced data.png)
+
+![im](/images/imbalanced_data.png)
 ## Prediction
 The Logistic regression will be more accurate because the data is imbalanced and because the logistic regressions Path analysis approach, uses a generalized linear equation to describe the directed dependencies among a set of variables.
 
